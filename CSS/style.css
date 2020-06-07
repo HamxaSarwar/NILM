@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+.logo {
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 5px;
+    font-size: 40px;
+    color: white;
+    
+}
+
+.my-card {
+    position: absolute;
+    left: 40%;
+    top: -20px;
+    border-radius: 50%;
+}
+
+.bulb {
+    font-size: 70px;
+    padding-left: 230px;
+    padding-top: 20px;
+    color: #000000;
+}
+
+.bulb1 {
+    font-weight: bolder;
+    text-align: center;
+    font-size: 50px;
+}
+
+.button1 {
+    padding-left: 80px;
+
+}
+
+.dryer {
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.items{
+    margin-top: 30px;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+  .box{
+      padding: 40px;
+  }
